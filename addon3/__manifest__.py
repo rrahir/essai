@@ -1,24 +1,25 @@
 # -*- coding: utf-8 -*-
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 {
-    'name': 'Jambon',
+    'name': 'jeacnkev',
     'category': 'Tools',
-    'summary': '_jambon',
+    'summary': 'SMS Text Messaging',
     'description': """
 This module gives a framework for SMS text messaging
 ----------------------------------------------------
 
 The service is provided by the In App Purchase Odoo platform.
 """,
-    'depends': ['addon3'],
+    'depends': [],
     'data': [
+        'views/res_partner_views.xml',
     ],
     'qweb': [
     ],
+    'price': 10000,
+    'currency': 'EUR',
     'installable': True,
     'auto_install': True,
-    #'price': 115,
-    'currency': 'EUR',
     'license': 'OPL-1',
     'support': 'test@test.com',
 }
