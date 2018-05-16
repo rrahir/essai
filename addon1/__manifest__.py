@@ -21,5 +21,5 @@ The service is provided by the In App Purchase Odoo platform.
     'currency': 'EUR',
     'license': 'OPL-1',
     'support': 'test@test.com',
-    'live_preview_url': 'www.perdu.com',	
+    'live_test_url': 'www.perdu.com',	
 }
