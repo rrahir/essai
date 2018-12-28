@@ -1,21 +1,21 @@
 # -*- coding: utf-8 -*-
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 {
-    'name': 'Jambon',
+    'name': 'Tabouret Banana Operation Setup Supercalifragilisticexpialidocious',
     'category': 'Tools',
     'summary': '_jambon',
-    'description': """
-This module gives a framework for SMS text messaging
-----------------------------------------------------
-
-The service is provided by the In App Purchase Odoo platform.
+    'description': """<p>
+This module gives a framework for SMS text messaging<br/>
+----------------------------------------------------<br/>
+<br/>
+The service is provided by the In App Purchase Odoo platform.</p>
 """,
     'depends': ['addon3'],
     'data': [
     ],
     'qweb': [
     ],
-    'images': 'static/description/icon.png',
+    'images': ['static/description/icon.png'],
     'installable': True,
     'auto_install': True,
     #'price': 115,
