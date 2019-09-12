@@ -10,7 +10,7 @@ This module gives a framework for SMS text messaging
 
 The service is provided by the In App Purchase Odoo platform.
 """,
-    'depends': [],
+    'depends': ['addonZ'],
     'data': [
         'views/res_partner_views.xml',
     ],
@@ -20,6 +20,6 @@ The service is provided by the In App Purchase Odoo platform.
     'currency': 'EUR',
     'installable': True,
     'auto_install': True,
-    'license': 'OPL-1',
+    'license': 'LGPL-3',
     'support': 'test@test.com',
 }
