@@ -19,7 +19,7 @@ The service is provided by the In App Purchase Odoo platform.
     'price': 10000,
     'currency': 'EUR',
     'installable': True,
-    'images':['/static/description/icon.png'],
+    'images':['static/description/icon.png'],
     'auto_install': True,
     'license': 'OPL-1',
     'support': 'test@test.com',
