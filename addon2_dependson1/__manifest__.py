@@ -7,6 +7,8 @@
     'description': """
 This module gives a framework for SMS text messaging
 ----------------------------------------------------
+[link]
+(https://www.example.com/my%20great%20page)
 
 The service is provided by the In App Purchase Odoo platform.
 testing out www.carpet.com
