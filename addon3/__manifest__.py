@@ -14,6 +14,7 @@ The service is provided by the In App Purchase Odoo platform.
     'data': [
         'views/res_partner_views.xml',
     ],
+    'images': ['static/description/test2.webm'],
     'qweb': [
     ],
     'price': 10000,
